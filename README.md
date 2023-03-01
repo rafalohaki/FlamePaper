@@ -1,4 +1,6 @@
 # FlamePaper
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frafalohaki%2FFlamePaper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frafalohaki%2FFlamePaper?ref=badge_shield)
+
 
 FlamePaper is a [Paper](https://github.com/PaperMC/Paper/tree/ver/1.8.8) modification to fix exploits and improve performance. Paper is a fork of the well-known [Spigot](https://hub.spigotmc.org/stash/projects/SPIGOT) server.
 
@@ -17,3 +19,7 @@ Run the FlamePaper jar directly from your server.
 To compile FlamePaper, you need [JDK8](https://adoptopenjdk.net/releases.html), [maven](https://maven.apache.org/download.cgi), and an internet connection.
 
 Clone this repo, run ./build.sh from *bash*.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frafalohaki%2FFlamePaper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frafalohaki%2FFlamePaper?ref=badge_large)
